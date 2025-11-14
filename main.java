@@ -1,7 +1,6 @@
-package com.mycompany.atividadefinal_poo;
+import classes.*;
 
-
-public class AtividadeFinal_POO {
+public class main {
 
     public static void main(String[] args) {
         Usuarios u[] = new Usuarios[2];

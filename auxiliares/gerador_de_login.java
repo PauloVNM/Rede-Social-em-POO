@@ -1,4 +1,4 @@
-package Auxiliares;
+package auxiliares;
 
 import java.util.Random;
 

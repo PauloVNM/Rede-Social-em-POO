@@ -1,4 +1,5 @@
-package com.mycompany.atividadefinal_poo;
+package classes;
+
 //Ismael Costa Lira RA: G420BE5
 //José Augusto Oliveira da Costa RA: N907363
 //Matheus Lucas Magalhães de Souza RA: N7636F2

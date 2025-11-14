@@ -1,4 +1,5 @@
-package com.mycompany.atividadefinal_poo;
+package classes;
+
 import java.util.ArrayList;
 import java.util.List;
 //Ismael Costa Lira RA: G420BE5

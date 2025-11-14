@@ -1,5 +1,7 @@
-package com.mycompany.atividadefinal_poo;
-import Auxiliares.gerador_de_login;
+package classes;
+
+import auxiliares.gerador_de_login;
+
 public final class Usuarios extends Pessoa{
     private String login = "";
     private int totAssistido;

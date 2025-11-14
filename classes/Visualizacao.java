@@ -1,4 +1,4 @@
-package com.mycompany.atividadefinal_poo;
+package classes;
 
 public class Visualizacao {
     
